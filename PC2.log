@@ -1,0 +1,32 @@
+PC2, www.proficiency.teachscape.com, I
+0x00, default_local, 69.36.226.168
+
+PC2, www.cm.GOV, I
+0x00, default_local, 56.28.590.4
+
+PC2, www.sPpl.or, R
+0xEE, default_local, Invalid format
+
+PC2, www.frEEwiFicafe.OrG, I
+0x00, default_local, 45.63.485.34
+
+PC2, www.animalhumanesociety.org, O
+0xEE, default_local, Invalid format
+
+PC2, www.proficiency.teachscape.com, Recursive
+0xEE, default_local, Invalid format
+
+PC2, www.sPpl.or, I/R
+0xEE, default_local, Invalid format
+
+PC2, www.trustedservice.org, R
+0xFF, default_local, Host not found
+
+PC2, www.google.org, I
+0xFF, default_local, Host not found
+
+PC2, RedRiverCleaningServices.com, I
+0x00, default_local, 234.578.200.21
+
+PC2, RedRiverCleaningServices.net, I
+0xEE, default_local, Invalid format

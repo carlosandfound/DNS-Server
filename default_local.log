@@ -1,0 +1,148 @@
+PC1, www.google.com, I
+default_local, www.google.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.google.com, I
+0x00, com, 216.58.192.164
+0x00, default_local, 216.58.192.164
+
+PC1, www.TEstCase.org, R
+default_local, www.TEstCase.org, R
+0x00, ROOT, 78.46.893.288
+0x00, default_local, 78.46.893.288
+
+PC1, www.AmaZon.com, I
+default_local, www.AmaZon.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.AmaZon.com, I
+0x00, com, 52.222.210.189
+0x00, default_local, 52.222.210.189
+
+PC1, www.test.com, I
+default_local, www.test.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.test.com, I
+0xFF, com, Host not found
+0xFF, default_local, Host not found
+
+PC1, www.USA.gv, I
+0xEE, default_local, Invalid format
+
+PC1, www.usa.gov, R
+default_local, www.usa.gov, R
+0x00, ROOT, 52.222.222.4
+0x00, default_local, 52.222.222.4
+
+PC1, www.starBuckstea.gov, I
+default_local, www.starBuckstea.gov, I
+0x01, ROOT, 127.0.0.1, 5680
+default_local, www.starBuckstea.gov, I
+0x00, gov, 57.38.48.93
+0x00, default_local, 57.38.48.93
+
+PC1, safari.org, R
+default_local, safari.org, R
+0x00, ROOT, 85.22.45.783
+0x00, default_local, 85.22.45.783
+
+PC1, guGGenheim.org, I
+default_local, guGGenheim.org, I
+0x01, ROOT, 127.0.0.1, 5679
+default_local, guGGenheim.org, I
+0x00, org, 63.116.182.0
+0x00, default_local, 63.116.182.0
+
+PC1, www.AmaZon.com, R
+0x00, default_local, 52.222.210.189
+
+PC1, www.usa.gov, T
+0xEE, default_local, Invalid format
+
+PC1, www.USA.gov, I
+0x00, default_local, 52.222.222.4
+
+PC1, www.trafficcontrol.gov, R
+default_local, www.trafficcontrol.gov, R
+0x00, ROOT, 59.024.89.289
+0x00, default_local, 59.024.89.289
+
+PC1, www.teachCape.cOm, I
+default_local, www.teachCape.cOm, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.teachCape.cOm, I
+0xFF, com, Host not found
+0xFF, default_local, Host not found
+
+PC1, china.gov, R
+default_local, china.gov, R
+0x00, ROOT, 64.234.86.45
+0x00, default_local, 64.234.86.45
+
+PC1, iranorganisation.cM, I
+0xEE, default_local, Invalid format
+
+PC1, www.twitter.org, R
+default_local, www.twitter.org, R
+0xFF, ROOT, Host not found
+0xFF, default_local, Host not found
+
+PC1, www.twitter.com, I
+default_local, www.twitter.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.twitter.com, I
+0x00, com, 104.244.42.65
+0x00, default_local, 104.244.42.65
+
+PC2, www.proficiency.teachscape.com, I
+default_local, www.proficiency.teachscape.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, www.proficiency.teachscape.com, I
+0x00, com, 69.36.226.168
+0x00, default_local, 69.36.226.168
+
+PC2, www.cm.GOV, I
+default_local, www.cm.GOV, I
+0x01, ROOT, 127.0.0.1, 5680
+default_local, www.cm.GOV, I
+0x00, gov, 56.28.590.4
+0x00, default_local, 56.28.590.4
+
+PC2, www.sPpl.or, R
+0xEE, default_local, Invalid format
+
+PC2, www.frEEwiFicafe.OrG, I
+default_local, www.frEEwiFicafe.OrG, I
+0x01, ROOT, 127.0.0.1, 5679
+default_local, www.frEEwiFicafe.OrG, I
+0x00, org, 45.63.485.34
+0x00, default_local, 45.63.485.34
+
+PC2, www.animalhumanesociety.org, O
+0xEE, default_local, Invalid format
+
+PC2, www.proficiency.teachscape.com, Recursive
+0xEE, default_local, Invalid format
+
+PC2, www.sPpl.or, I/R
+0xEE, default_local, Invalid format
+
+PC2, www.trustedservice.org, R
+default_local, www.trustedservice.org, R
+0xFF, ROOT, Host not found
+0xFF, default_local, Host not found
+
+PC2, www.google.org, I
+default_local, www.google.org, I
+0x01, ROOT, 127.0.0.1, 5679
+default_local, www.google.org, I
+0xFF, org, Host not found
+0xFF, default_local, Host not found
+
+PC2, RedRiverCleaningServices.com, I
+default_local, RedRiverCleaningServices.com, I
+0x01, ROOT, 127.0.0.1, 5678
+default_local, RedRiverCleaningServices.com, I
+0x00, com, 234.578.200.21
+0x00, default_local, 234.578.200.21
+
+PC2, RedRiverCleaningServices.net, I
+0xEE, default_local, Invalid format

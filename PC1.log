@@ -1,0 +1,53 @@
+PC1, www.google.com, I
+0x00, default_local, 216.58.192.164
+
+PC1, www.TEstCase.org , R
+0x00, default_local, 78.46.893.288
+
+PC1, www.AmaZon.com, I
+0x00, default_local, 52.222.210.189
+
+PC1, www.test.com, I
+0xFF, default_local, Host not found
+
+PC1, www.USA.gv, I
+0xEE, default_local, Invalid format
+
+PC1, www.usa.gov, R
+0x00, default_local, 52.222.222.4
+
+PC1, www.starBuckstea.gov, I
+0x00, default_local, 57.38.48.93
+
+PC1, safari.org, R
+0x00, default_local, 85.22.45.783
+
+PC1, guGGenheim.org, I
+0x00, default_local, 63.116.182.0
+
+PC1, www.AmaZon.com, R
+0x00, default_local, 52.222.210.189
+
+PC1, www.usa.gov, T
+0xEE, default_local, Invalid format
+
+PC1, www.USA.gov, I
+0x00, default_local, 52.222.222.4
+
+PC1, www.trafficcontrol.gov, R
+0x00, default_local, 59.024.89.289
+
+PC1, www.teachCape.cOm, I
+0xFF, default_local, Host not found
+
+PC1, china.gov, R
+0x00, default_local, 64.234.86.45
+
+PC1, iranorganisation.cM, I
+0xEE, default_local, Invalid format
+
+PC1, www.twitter.org, R
+0xFF, default_local, Host not found
+
+PC1, www.twitter.com, I
+0x00, default_local, 104.244.42.65
