@@ -1,18 +1,17 @@
-Name: Carlos Alvarenga
+Name: Carlos Alvarenga <br> 
 Email: alvar357@umn.edu
-Programming language: Python
 
 The four following python files compose the overall DNS client-server program:
-- default_server.py (default local DNS server program)
+- **default_server.py** (default local DNS server program)
   - Run with the command line argument 'python default_local.py <server_id> <server_port> <default mapping file> <server.dat default DNS servers list file>'
-- root_server.py (root DNS server program)
+- **root_server.py** (root DNS server program)
   - Run with the command line argument 'python root_server.py <server_id> <server_port> <default mapping file> <server.dat default DNS servers list file>'
-- dns_servers.py (server program for .com, .org, .gov servers)
+- **dns_servers.py** (server program for .com, .org, .gov servers)
   - Run by the command line argument 'python dns_servers.py <server_id> <server_port> <default mapping file> <server.dat default DNS servers list file>'
-- client.py (client program)
+- **client.py** (client program)
   - Run with the command line argument 'python client.py <client_id> <server_ip> <server_port>'
 
-Guidelines and assumptions:
+### Guidelines and assumptions
 - Python version 2.7 in the cse lab machines is used.
 - The client program (i.e. client.py) is always started after the default local
   DNS server (default_local.py) has been started. It should be run with
