@@ -1,6 +1,9 @@
 Name: Carlos Alvarenga <br> 
 Email: alvar357@umn.edu
 
+### Purpose
+Use Python to build a program that mimics a simplified DNS server according to the [guidelines and requirements](https://github.com/carlosandfound/DNS-Server/blob/master/project%20requirements.pdf) 
+
 The four following python files compose the overall DNS client-server program:
 - **default_server.py** (default local DNS server program)
   - Run with the command line argument 'python default_local.py <server_id> <server_port> <default mapping file> <server.dat default DNS servers list file>'
